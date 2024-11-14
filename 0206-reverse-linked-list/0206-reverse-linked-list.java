@@ -4,11 +4,11 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
         ListNode tmp = null;
-        while ( curr != null){
+        while (curr != null) {
             tmp = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = tmp;            
+            curr = tmp;
         }
         return prev;
     }
