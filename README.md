@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhay1930/Leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Abhay1930/Leetcode/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay1930/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Abhay1930/Leetcode/tree/master/0198-house-robber) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhay1930/Leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Abhay1930/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhay1930/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhay1930/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Linked List
