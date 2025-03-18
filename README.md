@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Abhay1930/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhay1930/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhay1930/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Abhay1930/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
