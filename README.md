@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhay1930/Leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Abhay1930/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Abhay1930/Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Abhay1930/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Abhay1930/Leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -155,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Abhay1930/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Abhay1930/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Abhay1930/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
