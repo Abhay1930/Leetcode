@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay1930/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhay1930/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhay1930/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhay1930/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
