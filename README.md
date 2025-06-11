@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Abhay1930/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Abhay1930/Leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay1930/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0941-sort-array-by-parity](https://github.com/Abhay1930/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhay1930/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhay1930/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhay1930/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abhay1930/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhay1930/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhay1930/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Abhay1930/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Abhay1930/Leetcode/tree/master/0389-find-the-difference) |
+| [0941-sort-array-by-parity](https://github.com/Abhay1930/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhay1930/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Linked List
 |  |
