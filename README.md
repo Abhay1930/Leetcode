@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abhay1930/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhay1930/Leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Abhay1930/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhay1930/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay1930/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/Abhay1930/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhay1930/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abhay1930/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhay1930/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Abhay1930/Leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Abhay1930/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Abhay1930/Leetcode/tree/master/0337-house-robber-iii) |
 | [1013-fibonacci-number](https://github.com/Abhay1930/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Abhay1930/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhay1930/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhay1930/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
