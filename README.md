@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhay1930/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abhay1930/Leetcode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Abhay1930/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abhay1930/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhay1930/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay1930/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Abhay1930/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhay1930/Leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay1930/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhay1930/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay1930/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Abhay1930/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhay1930/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Abhay1930/Leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Abhay1930/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/Abhay1930/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhay1930/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
