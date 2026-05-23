@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Abhay1930/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhay1930/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhay1930/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhay1930/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhay1930/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 | Problem Name | Difficulty |
