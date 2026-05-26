@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhay1930/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay1930/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Abhay1930/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Abhay1930/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Abhay1930/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhay1930/Leetcode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Abhay1930/Leetcode/tree/master/0782-jewels-and-stones) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Abhay1930/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
